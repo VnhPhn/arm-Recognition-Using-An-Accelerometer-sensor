@@ -36,26 +36,35 @@
 </p>
 
 ---
-## 📂 Cấu trúc dự án
-│── 📁 dulieududoan/         # Dữ liệu để dự đoán cử chỉ  
-│── 📁 guidulieu/            # Hướng dẫn xử lý dữ liệu  
-│── 📁 image/                # Chứa hình ảnh kết quả  
-│── 📁 static/               # File tĩnh cho giao diện web  
-│── 📁 templates/            # Giao diện HTML của ứng dụng  
-│── 📁 thuchienhanhdong/     # Mã nguồn thực hiện hành động dựa vào nhận diện  
-│── 📁 thudulieu/            # Dữ liệu cảm biến thô (CSV)  
-│── 📄 .gitignore            # Loại trừ các file không cần thiết khi commit  
-│── 📄 README.md             # Mô tả dự án  
-│── 📄 confusion_matrix3.png # Hình ảnh ma trận nhầm lẫn của mô hình  
-│── 📄 duoanCSV.py           # Code dự đoán từ file CSV  
-│── 📄 dulieu1.csv           # Dữ liệu cảm biến thu thập  
-│── 📄 label_encoder3.pkl    # File mã hóa nhãn cử chỉ  
-│── 📄 lstm_gesture_model3.h5# Mô hình AI đã huấn luyện (LSTM)  
-│── 📄 lstm_train.py         # Code huấn luyện mô hình  
-│── 📄 scaler3.pkl           # Bộ scaler chuẩn hóa dữ liệu đầu vào  
-│── 📄 server4.py            # Server xử lý dự đoán (Flask hoặc API)  
-│── 📄 training_history3.png # Hình ảnh lịch sử huấn luyện mô hình  
-
+📦 Dự án Nhận Diện Cử Chỉ Cánh Tay  
+│  
+├── 📁 Mô hình                # Chứa mô hình AI đã huấn luyện  
+│   ├── lstm_gesture_model.pkl           # Mô hình đã lưu  
+│   ├── lstm_train.py     # Notebook huấn luyện mô hình  
+│  
+├── 📁 dulieududoan           # Dữ liệu đầu vào để dự đoán  
+│  
+├── 📁 guidulieu              # Hướng dẫn xử lý dữ liệu  
+│  
+├── 📁 image                  # Hình ảnh minh họa
+│  
+├── 📁 static                 # CSS, JS, hình ảnh tĩnh phục vụ giao diện web  
+│  
+├── 📁 templates              # HTML template cho Flask server  
+│  
+├── 📁 thuchienhanhdong       # Mã nguồn nhận diện cử chỉ cánh tay  
+│  
+├── 📁 thudulieu              # Lưu dữ liệu cử chỉ được ghi nhận  
+│  
+├── .gitignore                # Danh sách file cần bỏ qua khi push lên Git  
+│  
+├── Dudoan.py                 # Chương trình chính để nhận diện và dự đoán hành động  
+│  
+├── dudoanCSV.py              # Xử lý dữ liệu từ file CSV để huấn luyện mô hình  
+│  
+├── dulieu1.csv               # Dữ liệu mẫu dùng cho huấn luyện  
+│  
+├── README.md                 # Tài liệu hướng dẫn dự án  
 
 
 
