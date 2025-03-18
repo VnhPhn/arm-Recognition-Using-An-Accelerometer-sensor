@@ -137,10 +137,10 @@ Dự án được phát triển bởi 4 thành viên:
 
 | Họ và Tên              | Vai trò                                                                 |
 |------------------------|------------------------------------------------------------------------|
-| Phan Đình Quang Vinh  | Phát triển toàn bộ mã nguồn, thiết kế cơ sở dữ liệu, kiểm thử, triển khai dự án và thực hiện video giới thiệu. |
-| Bạch Công Quân        | Biên soạn tài liệu Overleaf, Poster, PowerPoint, thuyết trình, đề xuất cải tiến, và hỗ trợ bài tập lớn. |
-| Nguyễn Viết Trọng     | Thiết kế slide PowerPoint, hỗ trợ bài tập lớn. |
-| Nguyễn Thị Linh Chi   | Hỗ trợ bài tập lớn. |
+| Phan Đình Quang Vinh  | Phát triển toàn bộ mã nguồn, kiểm thử, triển khai dự án, PowerPoint, và thực hiện video giới thiệu. |
+| Bạch Công Quân        | Biên soạn tài liệu Overleaf, Poster,  thuyết trình, đề xuất cải tiến, và hỗ trợ bài tập lớn. |
+| Nguyễn Viết Trọng     | Hỗ trợ bài tập lớn, đề xuất cải tiến. |
+| Nguyễn Thị Linh Chi   | Hỗ trợ bài tập lớn, PowerPoint, thực hiện video giới thiệu. |
 
 
 © 2025 NHÓM 6, CNTT16-02, TRƯỜNG ĐẠI HỌC ĐẠI NAM
