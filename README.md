@@ -36,7 +36,7 @@
 </p>
 
 ---
-📦 Dự án Nhận Diện Cử Chỉ Cánh Tay  
+##📦 Dự án Nhận Diện Cử Chỉ Cánh Tay  
 │  
 ├── 📁 Mô hình                # Chứa mô hình AI đã huấn luyện  
 │   ├── lstm_gesture_model.pkl           # Mô hình đã lưu  
